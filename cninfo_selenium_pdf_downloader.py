@@ -11,6 +11,7 @@ import time
 import re
 from lxml import etree
 
+# Midified test
 class CninfoDownloader(object):
     """
     在巨潮网cninfo上市公司公告页面下载指定关键词的pdf文件
